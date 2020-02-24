@@ -1,3 +1,7 @@
+# Info
+Bit 1 = if there is one or more line inside a field
+Bit 0 = if there is no line in a field
+
 #    Description     Bit    Inverse     clockw.     c.clow.    size pixel    position L->R    position T->B    position B->T
 1    face            1      0           0           36         86878         5                10               8
 2    eyebrow         1      0           19          1          281           10               20               16
