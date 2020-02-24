@@ -73,11 +73,11 @@
 712690274206284919966626567;xenehPHTE,XRPBTC; two pairs - clockwise - base58,concat
 -75161798941722851649649361;CTBPRX,ETHPhemex; two pairs - counter clockwise - base58,concat
 -17228516496493617516179894;ETHPhemex,CTBPRX; two pairs - counter clockwise - base58,concat
--88300238312907145015364198;ETHBTC,PhemexXRP; two pairs base58 -
--29071450153641988830023831;PhemexXRP,ETHBTC; two pairs base58 -
--38957364826757936859988064;XRPPhemex,BTCETH; two pairs base58 -
--68599880643895736482675793;BTCETH,XRPPhemex; two pairs base58 -
--29071450153071206860045142;PhemexETH,BTCXRP; two pairs base58 -
--68600451422907145015307120;BTCXRP,PhemexETH; two pairs base58 -
+-88300238312907145015364198;ETHBTC,PhemexXRP; two pairs base58 - diagonal - base58,concat
+-29071450153641988830023831;PhemexXRP,ETHBTC; two pairs base58 - diagonal - base58,concat
+-38957364826757936859988064;XRPPhemex,BTCETH; two pairs base58 - diagonal - base58,concat
+-68599880643895736482675793;BTCETH,XRPPhemex; two pairs base58 - diagonal - base58,concat
+-29071450153071206860045142;PhemexETH,BTCXRP; two pairs base58 - left right - base58,concat
+-68600451422907145015307120;BTCXRP,PhemexETH; two pairs base58 - right left - base58,concat
 -88300910062907145015297023;ETHXRP,PhemexBTC; two pairs base58 - top bottom - base58,concat
 -29071450152970238830091006;PhemexBTC,ETHXRP; two pairs base58 - bottom top - base58,concat
