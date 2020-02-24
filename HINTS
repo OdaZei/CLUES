@@ -1,13 +1,20 @@
 All official hints
 
 1-The first 21-digit prime found in consecutive digits of e is: 957496696762772407663.
-
 2-The private key you derive from Satoshi’s portrait is a big integer, not Wallet Import Format (WIF).
-
 3-The filename of the picture is irrelevant;
-
 4-The next step involves converting some words from the portrait, without I/O, into a 27-digit number.
-
 5-Go back to step 4) again if you can’t figure it out.
-
 6-After meeting the Phemex team, the Goddess Pheme repeated the words “little is big”, twice within three days.
+
+Constants:
+compressed address = 1h8BNZkhsPiu6EKazP19WkGxDw3jHf9aT
+uncompressed address = 1LPmwxe59KD6oEJGYinx7Li1oCSRPCSNDY
+decoded, uncompressed address = 02b4a72e4aaa69ba04b80c6891df01f50d191a65eccc61e4e9862d1e421ce815b3
+prime = 957496696762772407663
+picture parts without lines inside = 13
+picture parts overall = 35
+coords of single dot = 586,1043
+filesize bytes = 1944364
+picture size = 939,1254
+27 digit excluded start = 11,21,27,30,31,32,33,34,35,36,37,38,39,01,02,03,04,05,06,07,08,09
