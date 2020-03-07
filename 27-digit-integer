@@ -169,3 +169,5 @@
 #50954074256188254848968456;BTCXRPPHEMEXETH; single word - concat 4 words, base58
 #50953870849491562274392318;BTCPHEMEXETHXRP; single word - concat 4 words, base58
 #50953870849491573410937976;BTCPHEMEXXRPETH; single word - concat 4 words, base58
+### Special
+174981563836699894728005587;BTC*Prime+ETH*Prime+XRP*Prime; single word - base58 - multiply with prime - added
